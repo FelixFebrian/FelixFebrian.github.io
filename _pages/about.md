@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Me"
+title: "About"
 ---
 
 > My life amounts to no more than one drop in a limitless ocean. Yet what is any ocean, but a multitude of drops?
@@ -11,7 +11,7 @@ I was born and raised in Yogyakarta, Indonesia. In 2014, I moved to Berlin, Germ
 
 I currently work as student assistant at the Chair of Chemical & Process Engineering, where I assist students and lead tutorial for the courses Heat and Mass Transfer II (Energie-, Impuls- und Stofftransport II), Process Engineering I (Verfahrenstechnik I), and Physical Chemistry (Physikalische Chemie).
 
-In a second part-time job, I also do python programming for [SOPAT](https://sopat.de/), in which I work mainly with Django and Tensorflow.
+In my second part-time job, I also do python programming for [SOPAT](https://sopat.de/), in which I work mainly with Django and Tensorflow.
 
 <!-- As part of bachelor degree, my work for bachelor thesis and thus my current research interest is the study of hydromechanics in agitated vessel. -->
 
