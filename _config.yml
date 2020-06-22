@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the personal page and blog of Felix Febrian.
 twitter_username: febrian_felix
 github_username: FelixFebrian
-minimal_mistakes_skin: dark # default
+minimal_mistakes_skin: default # dark
 search: true
 
 # Build settings
