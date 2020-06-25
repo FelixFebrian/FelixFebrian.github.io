@@ -72,6 +72,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/felicismcgee"
+    - label: "Email Me"
+      icon: "fas fa-fw fa-link"
+      url: "mailto:f.febrian96@gmail.com"
 
 footer:
   links:
