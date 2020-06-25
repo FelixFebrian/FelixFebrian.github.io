@@ -7,7 +7,7 @@ tags:
   - Process Simulation
   - Process Control
   - Household
-published: true
+published: false
 ---
 
 Have you ever wondered, how the control of the water heater in your home works? In Germany, there are two types of water heaters: 1) flow heaters (<i>Durchlauferhitzer</i>), where water will be heated up as it flows out of the water tap, or 2) water boilers (<i>Warmwasserspeicher</i>), where warm water is stored in a tank continuously.
@@ -262,7 +262,7 @@ def pi_controller(epsilon: np.ndarray, K_P, T_I, dt):
     '''
     Implementation of PI-Controller
     
-    epsilon is the error of the controlled variable to its reference, saved as a list.
+    epsilon is the error of the controlled variable to its reference, saved as a numpy array.
     '''
     return K_P * epsilon[-1] + (K_P/T_I)*np.sum(np.multiply(epsilon, dt))
 ```
