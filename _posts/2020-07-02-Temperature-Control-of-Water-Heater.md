@@ -7,7 +7,7 @@ tags:
   - Process Simulation
   - Process Control
   - Household
-published: false
+published: true
 ---
 
 Have you ever wondered, how the control of the water heater in your home works? In Germany, there are two types of water heaters: 1) flow heaters (<i>Durchlauferhitzer</i>), where water will be heated up as it flows out of the water tap, or 2) water boilers (<i>Warmwasserspeicher</i>), where warm water is stored in a tank continuously.
